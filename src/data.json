@@ -1,0 +1,57 @@
+[{
+    "id": "1",
+    "type": "cardiovascular",
+    "condition": "High blood pressure"
+  }, {
+    "id": "2", 
+    "type": "cardiovascular",
+    "condition": "Cardiac Arrest"
+  }, {
+    "id": "3",
+    "type": "cardiovascular",
+    "condition": "Arrhythmia"
+  }, {
+    "id": "4",
+    "type": "cardiovascular",
+    "condition": "Coronary heart disease"
+  }, {
+    "id": "5",
+    "type": "cardiovascular",
+    "condition": "Coronary heart disease"
+  }, {
+    "id": "6",
+    "type": "gastrointestinal",
+    "condition": "IBS"
+  }, {
+    "id": "7",
+    "type": "gastrointestinal",
+    "condition": "Crohn's Disease"
+  }, {
+    "id": "8",
+    "type": "gastrointestinal",
+    "condition": "Gallstones"
+  }, {
+    "id": "9",
+    "type": "psychological",
+    "condition": "Depression"
+  }, {
+    "id": "10",
+    "type": "psychological",
+    "condition": "Anxiety"
+  }, {
+    "id": "11",
+    "type": "psychological",
+    "condition": "Stress"
+  }, {
+    "id": "12",
+    "type": "psychological",
+    "condition": "Insomnia"
+  }, {
+    "id": "13",
+    "type": "other",
+    "condition": "Cancer"
+  }, {
+    "id": "14",
+    "type": "other",
+    "condition": "Diabetes"
+  }]
